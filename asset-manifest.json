@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Shreeya2002.github.io/basic-blog-app/static/css/main.273314ed.css",
-    "main.js": "/Shreeya2002.github.io/basic-blog-app/static/js/main.fd4685b3.js",
-    "static/js/787.f3d7924f.chunk.js": "/Shreeya2002.github.io/basic-blog-app/static/js/787.f3d7924f.chunk.js",
-    "index.html": "/Shreeya2002.github.io/basic-blog-app/index.html",
-    "main.273314ed.css.map": "/Shreeya2002.github.io/basic-blog-app/static/css/main.273314ed.css.map",
-    "main.fd4685b3.js.map": "/Shreeya2002.github.io/basic-blog-app/static/js/main.fd4685b3.js.map",
-    "787.f3d7924f.chunk.js.map": "/Shreeya2002.github.io/basic-blog-app/static/js/787.f3d7924f.chunk.js.map"
+    "main.css": "/basic-blog-app/static/css/main.273314ed.css",
+    "main.js": "/basic-blog-app/static/js/main.39391f40.js",
+    "static/js/787.f3d7924f.chunk.js": "/basic-blog-app/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/basic-blog-app/index.html",
+    "main.273314ed.css.map": "/basic-blog-app/static/css/main.273314ed.css.map",
+    "main.39391f40.js.map": "/basic-blog-app/static/js/main.39391f40.js.map",
+    "787.f3d7924f.chunk.js.map": "/basic-blog-app/static/js/787.f3d7924f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.273314ed.css",
-    "static/js/main.fd4685b3.js"
+    "static/js/main.39391f40.js"
   ]
 }
